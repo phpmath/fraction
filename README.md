@@ -11,7 +11,7 @@ can be arbitrarily large.
 
 ## Documentation
 
-The full documentation is at https://phpmath.github.io/fraction/. Every release is described on the [releases page](https://github.com/phpmath/fraction/releases).
+The full documentation is at https://phpmath.github.io/fraction/. Every change is listed in the [changelog](CHANGELOG.md) and every release on the [releases page](https://github.com/phpmath/fraction/releases).
 
 ## Install
 
